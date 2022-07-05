@@ -98,4 +98,4 @@ I used flexbox and its properties to organize the elements and make them respons
 ## Author
 
 - Github - [Arnold Balabarca](https://github.com/arn28)
-- Frontend Mentor - [@arn28](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@arn28](https://www.frontendmentor.io/profile/arn28)
