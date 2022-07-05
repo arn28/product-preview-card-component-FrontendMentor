@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub] (https://github.com/arn28/product-preview-card-component-FrontendMentor)
-- Live Site URL: [Vercel] (https://product-preview-card-component-frontend-mentor.vercel.app/)
+- Solution URL: [GitHub](https://github.com/arn28/product-preview-card-component-FrontendMentor)
+- Live Site URL: [Vercel](https://product-preview-card-component-frontend-mentor.vercel.app/)
 
 ## My process
 
